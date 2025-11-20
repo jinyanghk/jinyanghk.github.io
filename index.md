@@ -1,8 +1,6 @@
+---
+layout: home
+title: Home
+---
 
-### Markdown
-
-
-### Jekyll Themes
-
-
-### Support or Contact
+# Welcome to my blog
