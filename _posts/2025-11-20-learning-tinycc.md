@@ -8,7 +8,8 @@ author: Jin Yang
 
 ![](/assets/images/tinycc/tcc-logo.png)
 
-[Fabrice Bellard](https://bellard.org)'s [tinycc](https://www.bellard.org/tcc/) is still being developed at https://repo.or>
+[Fabrice Bellard](https://bellard.org)'s [tinycc](https://www.bellard.org/tcc/) is still being developed at 
+https://repo.or.cz/tinycc.git
 
 I was curious if tinycc can build an OS ... 
 
